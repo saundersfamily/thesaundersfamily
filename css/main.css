@@ -359,23 +359,23 @@ footer {
 }
 /* Background Images */
 .slide:first-child {
-  background: var(--gradient), url("images/slider/slide5.jpg") no-repeat
+  background: var(--gradient), url("../images/slider/slide5.jpg") no-repeat
     center top/cover;
 }
 .slide:nth-child(2) {
-  background: var(--gradient), url("images/slider/slide2.jpg") no-repeat
+  background: var(--gradient), url("../images/slider/slide2.jpg") no-repeat
     center top/cover;
 }
 .slide:nth-child(3) {
-  background: var(--gradient), url("images/slider/slide3.jpg") no-repeat
+  background: var(--gradient), url("../images/slider/slide3.jpg") no-repeat
     center top/cover;
 }
 .slide:nth-child(4) {
-  background: var(--gradient), url("images/slider/slide4.jpg") no-repeat
+  background: var(--gradient), url("../images/slider/slide4.jpg") no-repeat
     center top/cover;
 }
 .slide:nth-child(5) {
-  background: var(--gradient), url("images/slider/slide5.jpg") no-repeat
+  background: var(--gradient), url("../images/slider/slide5.jpg") no-repeat
     center top/cover;
 } 
 /* End Background Images */
